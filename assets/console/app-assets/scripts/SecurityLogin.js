@@ -1,0 +1,3 @@
+setTimeout(() => {
+  CreateTable();
+}, 100);
