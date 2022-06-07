@@ -3,7 +3,7 @@
 
 EasyBot hiçbir kod bilgisine ihtiyaç duymadan web üzerindeki herhangi bir kaynaktan veri almak için oluşturulmuş bir girişimdir. 
 
-Bağlandığı tüm adresleri kontrol eder, kayıt altına alır. Fakat yine de etik açısından içime sinmeyip iptal ettiğim bir projelerden birisidir.
+Bağlandığı tüm adresleri kontrol eder, kayıt altına alır. Fakat yine de etik açısından içime sinmeyip iptal ettiğim bir projelerden birisidir. 
 
 
 
