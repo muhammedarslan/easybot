@@ -9,14 +9,14 @@ Bağlandığı tüm adresleri kontrol eder, kayıt altına alır. Fakat yine de 
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/easybot/easybot1.png)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/easybot/easybot1.png)
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/easybot/easybot2.png)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/easybot/easybot2.png)
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/easybot/easybot3.png)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/easybot/easybot3.png)
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/easybot/easybot4.png)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/easybot/easybot4.png)
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/easybot/easybot5.png)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/easybot/easybot5.png)
 
   
